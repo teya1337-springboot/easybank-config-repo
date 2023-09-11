@@ -1,1 +1,0 @@
-Configs for EazyBank app.
