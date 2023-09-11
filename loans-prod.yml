@@ -1,0 +1,12 @@
+accounts:
+  msg: "Welcome to the EazyBank Loans Prod Application"
+  buildVersion: 1
+  mailDetails:
+    hostName: "prod-loans@eazybank.com"
+    port: 9011
+    from: "prod-loans@eazybank.com"
+    subject: "Your Loan Details from EazyBank Prod Environment"
+  activeBranches:
+    - Hyderabad
+    - Paris
+    - "New York"
