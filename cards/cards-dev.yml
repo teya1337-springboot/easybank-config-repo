@@ -1,11 +1,11 @@
-accounts:
-  msg: "Welcome to the EazyBank Cards Dev Application"
+cards:
+  msg: 'Welcome to the EazyBank Cards Dev Application'
   buildVersion: 2
   mailDetails:
-    hostName: "dev-cards@eazybank.com"
+    hostName: 'dev-cards@eazybank.com'
     port: 9022
-    from: "dev-cards@eazybank.com"
-    subject: "Your Card Details from EazyBank Dev Environment"
+    from: 'dev-cards@eazybank.com'
+    subject: 'Your Card Details from EazyBank Dev Environment'
   activeBranches:
     - Chennai
     - Berlin

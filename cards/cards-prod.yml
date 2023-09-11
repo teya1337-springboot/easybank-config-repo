@@ -1,12 +1,12 @@
-accounts:
-  msg: "Welcome to the EazyBank Cards Prod Application"
+cards:
+  msg: 'Welcome to the EazyBank Cards Prod Application'
   buildVersion: 1
   mailDetails:
-    hostName: "prod-cards@eazybank.com"
+    hostName: 'prod-cards@eazybank.com'
     port: 9012
-    from: "prod-cards@eazybank.com"
-    subject: "Your Card Details from EazyBank Prod Environment"
+    from: 'prod-cards@eazybank.com'
+    subject: 'Your Card Details from EazyBank Prod Environment'
   activeBranches:
     - Hyderabad
     - Paris
-    - "New York"
+    - 'New York'
