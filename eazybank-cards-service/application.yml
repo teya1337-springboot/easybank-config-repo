@@ -2,9 +2,9 @@ cards:
   msg: 'Welcome to the EazyBank Cards Default Application'
   buildVersion: 3
   mailDetails:
-    hostName: 'default-cards@eazybank.com'
+    hostName: '{cipher}AQC6kjTiDxPA3adU19QlKZWmWxq72zoKgG4JhiHGKXAxir/8/GFh5yB5t8EINlM3rN+ci74Y5OjhQbQHhYJOVyTRZRHQNQ89YVmm7Q7pG4FhRix4tS/PUi269dPFyScYY//qxWp0s/17edMP9aXye9Y56xt6/KUGWREV5KERkS2Q19NfY/6TTggiLV222lGDxKq0aaKNXcbP1eDZGRdkg9JRMZVF4dEAImM1S7ipN6qbqwUcFA4evv03+o43SeQlh/vnSiLQBckYokr7UaJENP7YPcPMya0Nnt2ltRXGTI0Lao82aZgkPVABkPSPKlrilooLh3JLHDbsUZbEMy+l9ur8IKU7fWC+2wBnGL/ms0D74rKFTfQzXsvoLg5NNuGMs7SFJAH3X5Z2LQtkG/3sYhVi'
     port: 9002
-    from: 'default-cards@eazybank.com'
+    from: '{cipher}AQA/FCGebtllfx3+4XISRvywmaESCQ9Du7hCGmSf8hn+IbC+vgGm24LGsqC2678V8wj77tGI6xn+8NmiHkcB5N9McBwn5gKxrjwce6v37vVPBoP5vfPoOg3v4/UuNkIar8G4wKaz7GQNNxKtL6oRWFYA/rRvXZAICGaejXyhK4HkY2yIZwCwvS11Trr5UzcO6qhtWQZKMpk4bu4p6jpCQ6oRiPryzmmHijfGF1f0+oD7V0o3DMoDex9JY+PpWSc+yzuxybYc/u0I9SMihfGEc0Be3pWQSDVPQCpXBHU67qGJh1thlo/7YC0R9Ua6RZuddYvhPIH62NdBYJgQXzBi1nVv1MyljmVTVQND5Gpw2/GqL5bXV5Wc6Hdxs7MAPL86bu1hbLacGJFJjFJ4n1YrhF7Y'
     subject: 'Your Card Details from EazyBank Default Environment'
   activeBranches:
     - Mumbai
