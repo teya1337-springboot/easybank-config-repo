@@ -2,9 +2,9 @@ cards:
   msg: 'Welcome to the EazyBank Cards Dev Application'
   buildVersion: 2
   mailDetails:
-    hostName: 'dev-cards@eazybank.com'
+    hostName: '{cipher}AQBXrENmdBAyumF7yfmDKHhqPbVapifLts8sKlMdMxw+DnUzBRm8aISMRdwLEYt3hdrjTO5qTMF4MPQsd6quSZrbqgP3+8fBciOnmhQa6betL6L5/DzKcO6vLohC6eGnLPMcJk+F10swsjKkxKKNsvLemqq8LZxEGam0iaDiR+hE4ZO8ElVmUm6XXgQBKC06KJvpj605RIeyV0zO8fkZTs4WYM2PtXl50rKGM8GchUsP+DUuNdhZlZsirC6PhOqw3M2+1N9nkqfyqB/F9YMCBCVHMmukeDwartzr5tNUeFnNrR42XB9/sRTCFq7T9DQZcpU2+acJPySLtCqvcsCnfMjvOtQzjeVrE+ykCy3En2uWA+JFm9NtLQ+2N0YDzUJUgfNo2RDd1G6wkLZ2QUoEdEn6'
     port: 9022
-    from: 'dev-cards@eazybank.com'
+    from: '{cipher}AQDILe09moITVpz+puQQGPOh8j0N+DF3l3i5BG6wa6cs8RoX5+xtG+B9KzYCEm+7PBwJ1qG8MUERZiZTwszuhNuTSudv/nQJ10wUfd9ApCaK++k2vZ1Ytw1XAwrXSlnvg+vMlLqe9V3D0lFB5mWu963NsfdNB7XbGyGnJl+PcDHb1LNjoeku0uFXcuqsOz8HAYAkHE9Xs+5JalRkB8Y514Yqfi/TxgWnLg+rQkYkE0CV/JLuxQkvj6RE/bpaACi6XWAS34kmEDrSJDv++l0FrP8v7rBvgIj/reoFzaA0hG68oUkPqpf8wHdtxnCKNiiKJ0B26bNTWNQdAFzmI5vLjY8AyQNd6D2i0tk1rlPr9x4PZTsKrBFHqQEaUXbX9b0cW1HXUYgZj4bi0bu6AYN7Hhuj'
     subject: 'Your Card Details from EazyBank Dev Environment'
   activeBranches:
     - Chennai
