@@ -2,9 +2,9 @@ accounts:
   msg: 'Welcome to the EazyBank Accounts Dev Application'
   buildVersion: 2
   mailDetails:
-    hostName: 'dev-accounts@eazybank.com'
+    hostName: '{cipher}AQBsKa7nhrnsNddlBPHAT7W8McRihCu6MThnRt25ZGjW1eLr2eu6OAkvndUagjLbwIqPhsYwCagX5+Fh7b71QekFmq2Gpfl+QnVIV4Z7eefbLh2JAxzo9Yd/G9KfDVq2IcBpN5ZRxtH58FAUpDLAwzKAMPkiuaqQbqIILiF4O5rgtQBM36o8cE/ChSHOovk3fNnFNts3FIAYNZ3zLkoAXnl0WjcaXDlLl47lC2VpfrGnVIgaMkm+TnEWQ+4ooy9SsqZw+VKxJXjyIjWTUyI6BtiMkp9Vlr9LUP+3/5Ag6imNzdKrkox1+Y+ZOblcFtO0ch8p2naaEgTsh3TQBcTg3ym04N22Tb8/Jp6eyTj0ETlD/1M/qStvMCCFH3ILorUJvewZk/eSfqATjjh5G3ddq5so'
     port: 9020
-    from: 'dev-accounts@eazybank.com'
+    from: '{cipher}AQBtL7CIegPqwJSV7NJ16prLRAz4Ry6XrgND5ricVUKLo3g3CxCifZjLrAUq8FSGDxaTzc5SZMK7lf55cEf+wTg3dn6DiUE8nChR+zhB5XFbExW/gwYR7T68E1rT1aux0qXlSsNGD7+yVaTTpUXLNoL0RlVkMqF7yb2H7E2WpRj+I++QS9r5vEyB05HNOiE4FDefsm5t6GM0s5fZZ5kLwPCMw8RBN6SnFiLlHioeymbNTg87RE5vfaYMpctck5Yp3e3YY1+XHreX9JNiRnxWEiCmC+Rlo/DUfzoomHnbdShHAK0VJAvShwlmX23h4XINbbLtgmy4r8Lr5K2qWc9tREVolay6wUf6yqjFK+7aKG8kAq4Y0R5XepIoKE9/NOKBHyGQm7ESJk4GxjAkG5TdZWn6'
     subject: 'Your Account Details from EazyBank Dev Environment'
   activeBranches:
     - Chennai
