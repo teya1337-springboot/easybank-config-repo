@@ -2,9 +2,9 @@ accounts:
   msg: 'Welcome to the EazyBank Accounts Default Application'
   buildVersion: 3
   mailDetails:
-    hostName: 'default-accounts@eazybank.com'
+    hostName: '{cipher}AQB0W6Q3CYgisRJ5fy2kUH6KHp+zjAIusUF7m8XyFeRNj75ycRHoUsUzRgo+6rRq77wCtLgjZvad6de5QpMCXm1lmRTvg/QtuppAK6zaYTw8PPnYdfucqdlJLMeNI5t/4BByn5548tFg82QuD5AHHOyFin6tBIyL2FPnGo+ButSF+QBtBhJ5/EA6/imySeMDmwXJoUPJ23W4Crnm/XAbPGCuKPUCiU1IrksZy/fJfhUpwb+FMVlJhumZgL5VgLVJLicgR9S7ySn8vlvPfVTzw98QKmYjqxMXLKALmryzykO0zRK2yqrv1jDmuhSd0ZsszTpgtzHKnSRLoqRJxxPKNJhyK220RQq/+pYDXNW1+A1W3keoXdJ6pPeRbfGFJgU5QFvRBtf54sPZsevwSYAnKw1I'
     port: 9000
-    from: 'default-accounts@eazybank.com'
+    from: '{cipher}AQC/uLhT39QS8Nx+VRov2DMAxD4y5HQYiQZjHy8Wm1jO/i0+ZzP7hHKKZasE4kWuwQ9n77jkNy1QgmFLQdavJ1XLxtrf+L8Mld1sHby0sGefBDdg/4/2ZN41htMLT5Ol5PzIxg/mpGszyhkTwDhack2AKwLfjpwlPpCObKF5U5l+a5kNkQmWovfvIKv/2AbbcALB62RfqHuIlEDEw8d59FW3zAvVO+P7rjBh5+SuMJFYbGEf+R8GWx3fRwcSU1UBKRVCN704qsCgFMYfxLz2giBITHsnABsh1bG2M0MJsX5wyy3aT1emLSYJwcukATAUtdlBptxI6OeBfowhIc7+QCwioUwYQSB9YDAN8lXFp9V+7PaMsukCcldDYeUfs/e9L7D0Ypx4ztQYpZweh3EDA3fs'
     subject: 'Your Account Details from EazyBank Default Environment'
   activeBranches:
     - Mumbai
