@@ -2,9 +2,9 @@ loans:
   msg: 'Welcome to the EazyBank Loans Prod Application'
   buildVersion: 1
   mailDetails:
-    hostName: 'prod-loans@eazybank.com'
+    hostName: '{cipher}AQBx/f0mVrNTLTbzg60KV0zc5TSikDogTp68DOjgw64CiTSrMiUpMeH50ARnsXGpYnfGHTuDYZI8yHxiHHSOKRdc9KsvskFicYq0yw5TZG16zWYrtjrvS5RNq/2ySXNqfC1GuU+ijnPZle89mMEiOtf9+Zq7Ey+SSLJ5ucok3uEKtLk9JQHbfGxgHCP4wAVQOhQUajuduipta4RS/ZJ9TKiaz2/oMtR4bAHOCZT6AI4pIsB+oj5IlE+pUTxjSREAVeCV6v7ad/RsFpces6LewTz/xJHCAzJPU791VeyaEwhnD2KjMQ1EQVBUs+J26bx7IIAM9EqX5glQVgBzBHvPtYuWpIeY3Qg3Qy9yP6NJbnZ7p2wq4f6NscDDfhwb68LZWDBO2W8TOuKwnvMdSWXuNv3L'
     port: 9011
-    from: 'prod-loans@eazybank.com'
+    from: '{cipher}AQC4/YRxcn2RP5AWpmZUrIsR2Y15H7g4TuQptN4yd0zzC/DPk6F/MkSUDWd7fDYs82kiVfFrOMb9R+YT6aTngjwuwOLujACrPMhC6xexA0R/TNJgGIAmtWFUaqhsyC4iYHxRXntHcLd56zM87pPvyty0T29Fi9UQjZkI8EsZCDmhi+YSPHu57RTRh1Xcp+pVhehwN83oiEE2i1PmiNpcWJamq0nADkEJzc8pYZNQrIhKM6cEuTaJ+934U3treoWViMIgSBYGkMuzeuZXonLU8eQYeJNGdlhzDgL0Igui3Rrfwgq7eJJmN47C6ks7mW1KStRTUYzD5FSXr32yqejnA26EgShqNOec3flLXK+4g+WxsBUqdGzkTmhvDVOWcfIWevZ8kuOPBjt5dgBqa8wvr2+W'
     subject: 'Your Loan Details from EazyBank Prod Environment'
   activeBranches:
     - Hyderabad
