@@ -2,9 +2,9 @@ loans:
   msg: 'Welcome to the EazyBank Loans Dev Application'
   buildVersion: 2
   mailDetails:
-    hostName: 'dev-loans@eazybank.com'
+    hostName: '{cipher}AQBZmXomv6Uq8N1ZY2Zsaq8WVBpSHiDwTLiDxb2b0Xx/XitLASOF3Mio9aOK46twh27l8lvN6t6U08CZMbH7S187mUQVJPyEU2xq68B6cXmuXMiUFTkjileujhE5XNFsPEKJqzVsJ7iCDnYKY0SdPnHpNWeeTkhkNtWEN9Hr0PjZXAMw7+Kz1yY+IY/BcEn1I821UCg23Vc+Ots3jXQTO5zn9hRjISAcI+IRvnl3TzejWvGHC/vw8c4IupeRwudiJb0DsQRdlTJ3/2DeMhXyOcv2KzvNgf5JxM31y2tVJV6RUGhkYT8SuoCpfSntbmb9Y3Gx6eHeIcZXPWUskM60AHkYctS9E/5NrEI+mhKiSYwIF+RQoZbdjWtmXOwS0Ec2TfaF2vF6bg83qrlTHxIXHJto'
     port: 9021
-    from: 'dev-loans@eazybank.com'
+    from: '{cipher}AQAgGVd4QjVCVR8EIrBXWt6aZD6aIKeFFp6lD47Y5aDukJmMrsGLY8T0v1kmXz3FM6jdUaHf3T+L9irGuLKI0CDaprSoeWJRfpjWr9keZgKyE95TgmdRrr5keUX+t/9dDg7PDvXn7ATWVXqgeAN8aoix1HxpvWkBzeR7gucsRhurB6Z5sGV2/F6T61UluaOw5PAgi8GtUGnIekB8fuDCQcYWAT3cQvWKrya0H/hv7uyXzKG+w60obByvZMXDUgGHmjLeJDslXm8HiEK3Ut5YgNVjDk5jQ1iO8s36mmy2DgZFR9gxFhiTbtKhVEtmS8IJPkl9KH/8Z0VWilUrKNAxojzfrbLXG8JvSQ0XkIz46Um0vnMbW5gNur4+2fO06pdw3b1r3Aisib0qmhkvQgxnGY9o'
     subject: 'Your Loan Details from EazyBank Dev Environment'
   activeBranches:
     - Chennai
