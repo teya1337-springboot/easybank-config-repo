@@ -2,9 +2,9 @@ loans:
   msg: 'Welcome to the EazyBank Loans Default Application'
   buildVersion: 3
   mailDetails:
-    hostName: 'default-loans@eazybank.com'
+    hostName: '{cipher}AQBW64VR9ImEvXa8/l5rSEwco8kWsJNTXjOhockPfeZFrsvUyLKXj3fJ/HiVfJMKDJzXj1qaMowiGQiMZBFpWe5PZvyxFvsJHgMzHYNf6zDhEk61Lh+wDonCXu6u4lNUNKuDHfiE8BPPvr0WvPyB6FkmOQ8KpZ8GK/1pd9FY2Z6MlEo6GnrJSj+dQoxyS8488kgxOedlJmc4v6tln4JSeYRU+V/9amJpt/vGrjVpM0eLuIT2ATifgPuQxrSFyJBdYz2DFC6licrkhWN1RdoeAUHfhqWQpJ/nZ3LS9SKEDOA6nwh7/NPJBaHpwk/3v48+nxU0yUm5nEN3bOOTEs9ODVDkfuJDSBZnxK42ygeCVb26gcgngerWLcoxUmdsY+Z8N01rj2rpuJnz9DzQFBKzO53c'
     port: 9001
-    from: 'default-loans@eazybank.com'
+    from: '{cipher}AQCr/3rrN8aaZbwb+YSuJh7eBGERI/bFHsDhSFXjBvSr/FZ9PCjohsSwRZfL6zdJkpiXSZRHuUyqez3dH7QBsI3jG10tnR7QjRgQmaqOOJnyzhMCPxxsrk1du6Uk7b55vExaMg9rPjW3A77I7c5/xxKs5tY4MWvhP4vux5okffTEZoPUOpl9nW283oymqHm2HO5GgQsuWj3I2goLDKp4xy5I0N37nN0fyV9v3snJ6l9O6xqOds7IGh0ZwuW95IBAm9degnyvn6whlmy1SW27qmjRmskTtAkd9K4eZRqzFYvh6wVADYVB2AT9Y7EmKnUNWLrPeOZ8LDVXSkZ0oEa+MJ8ry6Ro3FeW15ZedTaOe666+OlJK2X7CJ+xNlxRRYXYMqdRnhl8cQCnOmG8Ng5Bkzw+'
     subject: 'Your Loan Details from EazyBank Default Environment'
   activeBranches:
     - Mumbai
