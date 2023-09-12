@@ -2,9 +2,9 @@ cards:
   msg: 'Welcome to the EazyBank Cards Prod Application'
   buildVersion: 1
   mailDetails:
-    hostName: 'prod-cards@eazybank.com'
+    hostName: '{cipher}AQCm5y7RhyicaTO+NMcHfVMIFfDPSb6NVHWgPGv4mHne09vTWVyrnGAB0UMP289Dkem03yjkk7Fz3YA6jPjQVNfhDoTy0BisqrYY+iHnHC2ozRCE+BGUOO2jexX6T5321VrosxRL5mQRzp8rb4t1fMrdx51WhNYhNORHWUO537FCydOZRpM15TOB8fMlCKTx7h+0SJAiBXtm8UvG0R8zX8dGq1FzvZkj3okf9JLFsxYIgmJq3y/5u3PVhd7lwccd4x+z3C/W7iecKUBvZVxSs4aWCcPEyuvbJZYRBZMLg9P9L0Kn6dLG4joMizIka/3RD+msZ+KVCNPONSLqE5Yo5i/2/BfyU+tLfdL5zzlnF2vgZOX4aLayO+Xhbdij49qMP5j5n9v9ic6Ulki8xBhsdnRz'
     port: 9012
-    from: 'prod-cards@eazybank.com'
+    from: '{cipher}AQBEk2uwfzKys5r1/4ehKAE/szkb80tOctDHfSMyPAlfSdAlInI3OH8Ka5wFziDLlNzpY4F9wWvY1AiH0gBHZ85FnacrbfJ0AXPDk2ycleVtakDv8EPgmnpmROVI3MAj/MriLjPub7UA+A9cZuD8nkwklKT6B35zRGYD69d74WPay6NtGPC4BZg+4vZs/EOuk4NSMzO2fGBQVMQCyBWR7MSDoZz/kwYpjOT/ixvRp3vdLW+bROMtPiLmJH5KTdOzVRgP7uFz5JRmW3i9TCPvp0tS8wglwAWyHIhHyML04UC//i9LHXBIAgDDL8M0S8IdkLe4reAcJj5CmJ245bQEmVnBGpeGr7b3W+/GibyV6zx4sp2I1QsMG73Mdy3jemETnqdpFnNWLuyICjrPr8DFNxx5'
     subject: 'Your Card Details from EazyBank Prod Environment'
   activeBranches:
     - Hyderabad
