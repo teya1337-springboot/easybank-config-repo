@@ -1,9 +1,3 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://postgres-cards:5432/cards?currentSchema=cards&binaryTransfer=true&reWriteBatchedInserts=true
-    username: postgres
-    password: postgres
-
 cards:
   msg: 'Welcome to the EazyBank Cards Default Application'
   buildVersion: 3

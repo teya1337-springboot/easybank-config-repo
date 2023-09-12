@@ -1,9 +1,3 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://postgres-loans:5432/loans?currentSchema=loans&binaryTransfer=true&reWriteBatchedInserts=true
-    username: postgres
-    password: postgres
-
 loans:
   msg: 'Welcome to the EazyBank Loans Default Application'
   buildVersion: 3
