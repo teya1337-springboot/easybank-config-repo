@@ -2,9 +2,9 @@ accounts:
   msg: 'Welcome to the EazyBank Accounts Prod Application'
   buildVersion: 1
   mailDetails:
-    hostName: 'prod-accounts@eazybank.com'
+    hostName: '{cipher}AQCa/PGvfGiGdEsX5Fh4JfIlljSbbSS5ZGSdFVLkUIQb1MBk3v3eRtzs+f0CZCd4W/xu3MBPpdoqcMsRq/2x2Gx65tzgxj3Ii5EEmIAVM9BRmcPssA728Y6q26zo2WaCRNvKhmApaX2nU+GdRvUW/ZYEkvE2Zz0DuluWL4Aw6oD2Mler6dPBGZfnF9v4j23dLeVpV4bZCWKJgY5VsF99XDEa9WgMRS5+9w608b31K4YPh9CxyJCyAqpNqQcklqkG+2q7X2uwIS5wh0uAIg9diiCJgqGurghcPXt4ZwG8QQrkOfPgQ9wkhFmyFjUDNWs7mQufvplXypWM6S77MHcGwkVHB3Izkfrwc33oAXIi0/ReVB/ITynCvr2SNE4gbs0ik2a0kMsWUf2arVSUVeG4/lDm'
     port: 9010
-    from: 'prod-accounts@eazybank.com'
+    from: '{cipher}AQAjuAVLBnQaXgsaMM9JQ0nU1DsTkJpNcAlySuD/DhqPDIMqMSrqHrziaJqBgzWB4oyBDjTGOJtkgDxrSjaAT8+veaRJTEDTP2Dh9oEIKSO2EdpbLHvXFE2TSr4SSsrXKietZvgzAuNxuiSGgNxZFquXLUI5+WQeBeSRqkASVKKIQ9523cOBRg5DCsUf4s6hOOufIgj4dJQsj2qbGQVekbxh9Xr8Xxlzf1hGsSYyWZzVtEdZgtkWakko5v1np5AdNyR0vIsyk9t+/HP8cM+FqaXIXgN0JEEQABC8vVbkNeafNIdm++We27622zAShSO/uoIvcaQaySYjoI1BKCQ7Dc5MHE40HKM+AOd9GD6MNL9tv3QdTsOsKJYae89AmaiXScRc0ECMXHnIQPnLHlJ+7suN'
     subject: 'Your Account Details from EazyBank Prod Environment'
   activeBranches:
     - Hyderabad
