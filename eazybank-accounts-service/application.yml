@@ -1,11 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres-accounts:5432/accounts?currentSchema=accounts&binaryTransfer=true&reWriteBatchedInserts=true
+    username: postgres
+    password: postgres
+
 accounts:
-  msg: "Welcome to the EazyBank Accounts Default Application"
+  msg: 'Welcome to the EazyBank Accounts Default Application'
   buildVersion: 3
   mailDetails:
-    hostName: "default-accounts@eazybank.com"
+    hostName: 'default-accounts@eazybank.com'
     port: 9000
-    from: "default-accounts@eazybank.com"
-    subject: "Your Account Details from EazyBank Default Environment"
+    from: 'default-accounts@eazybank.com'
+    subject: 'Your Account Details from EazyBank Default Environment'
   activeBranches:
     - Mumbai
     - London
