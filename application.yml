@@ -43,13 +43,17 @@ spring:
 
 # DESC: Actuator endpoint management
 management:
+  endpoints:
+    # DESC: Expose all web actuator endpoints
+    web:
+      exposure:
+        include: '*'
+
   # DESC: For enabling the "/actuator/info" endpoint
   info:
     env:
       enabled: true
 
-  # DESC: Expose all web actuator endpoints
-  endpoints:
-    web:
-      exposure:
-        include: '*'
+    # DESC: enable the "actuator/shutdown" endpoint
+    shutdown:
+      enabled: true
