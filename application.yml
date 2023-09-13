@@ -40,3 +40,16 @@ spring:
       schema-locations: classpath:scripts/init-schema.sql
       data-locations: classpath:scripts/init-data.sql
       mode: always
+
+# DESC: Actuator endpoint management
+management:
+  # DESC: For enabling the "/actuator/info" endpoint
+  info:
+    env:
+      enabled: true
+
+  # DESC: Expose all web actuator endpoints
+  endpoints:
+    web:
+      exposure:
+        include: '*'

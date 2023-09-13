@@ -1,3 +1,10 @@
+# DESC: Customized info for "/actuator/info" endpoint
+info:
+  app:
+    name: 'Eazy Bank Cards Microservice'
+    description: 'Eazy Bank Cards Application'
+    version: '1.0.0'
+
 cards:
   msg: 'Welcome to the EazyBank Cards Default Application'
   buildVersion: 3
