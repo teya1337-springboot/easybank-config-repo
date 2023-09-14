@@ -54,6 +54,7 @@ management:
     env:
       enabled: true
 
-    # DESC: enable the "actuator/shutdown" endpoint
+  # DESC: Enables the "actuator/shutdown" endpoint
+  endpoint:
     shutdown:
       enabled: true
