@@ -45,6 +45,10 @@ spring:
       data-locations: classpath:scripts/init-data.sql
       mode: always
 
+endpoints:
+  shutdown:
+    enabled: true
+
 # DESC: Actuator endpoint management
 management:
   endpoints:
